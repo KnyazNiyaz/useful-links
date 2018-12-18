@@ -4,6 +4,7 @@
 
 * You don't know JS - https://github.com/getify/You-Dont-Know-JS
 * Stoyan Stefanov Javascript Patterns - http://sd.blackball.lv/library/JavaScript_Patterns_%282010%29.pdf
+* WTFJS - https://github.com/denysdovhan/wtfjs
 
 
 #### Design:
